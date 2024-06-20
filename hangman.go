@@ -1,3 +1,13 @@
+// Assignment 1
+// learned all topics from go offical site and apply it into below code of hangman game.
+// Understand variable declaration standard output print functions
+// Learn basic condition statements and data types
+// Understand basic looping structure
+// Initialize entries map
+// Show placeholder
+// Basic conditions/evaluations
+// Print guessed letters
+
 package main
 
 import (
