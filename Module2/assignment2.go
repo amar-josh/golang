@@ -1,4 +1,6 @@
 // Assignment 2
+// 1. Learn basic input functions
+// 2. Implement word compare/ character check logic
 
 package main
 
