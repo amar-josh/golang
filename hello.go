@@ -1,11 +1,11 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func printHello(){
-	fmt.Println("Hello GO lang")
-}
+// func printHello(){
+// 	fmt.Println("Hello GO lang")
+// }
 
-func main(){
-	printHello()
-}
+// func main(){
+// 	printHello()
+// }
